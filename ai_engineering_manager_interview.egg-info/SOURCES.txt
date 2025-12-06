@@ -1,0 +1,6 @@
+pyproject.toml
+ai_engineering_manager_interview.egg-info/PKG-INFO
+ai_engineering_manager_interview.egg-info/SOURCES.txt
+ai_engineering_manager_interview.egg-info/dependency_links.txt
+ai_engineering_manager_interview.egg-info/requires.txt
+ai_engineering_manager_interview.egg-info/top_level.txt

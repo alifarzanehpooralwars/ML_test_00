@@ -1,0 +1,18 @@
+Metadata-Version: 2.4
+Name: ai-engineering-manager-interview
+Version: 0.1.0
+Summary: Environment for AI Engineering Manager Interview
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: fastapi
+Requires-Dist: pydantic
+Requires-Dist: torch
+Requires-Dist: transformers
+Requires-Dist: scikit-learn
+Requires-Dist: uvicorn
+Requires-Dist: sentence-transformers
+Requires-Dist: mlflow
+Requires-Dist: prometheus_client
+Requires-Dist: kfp

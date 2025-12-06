@@ -1,0 +1,21 @@
+[project]
+name = "ai-engineering-manager-interview"
+description = "Environment for AI Engineering Manager Interview"
+version = "0.1.0"
+readme = "README.md"
+requires-python = ">=3.12"
+
+dependencies = [
+    "numpy",
+    "pandas",
+    "fastapi",
+    "pydantic",
+    "torch",
+    "transformers",
+    "scikit-learn",
+    "uvicorn",
+    "sentence-transformers",
+    "mlflow",
+    "prometheus_client",
+    "kfp",
+]

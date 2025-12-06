@@ -1,0 +1,12 @@
+numpy
+pandas
+fastapi
+pydantic
+torch
+transformers
+scikit-learn
+uvicorn
+sentence-transformers
+mlflow
+prometheus_client
+kfp
